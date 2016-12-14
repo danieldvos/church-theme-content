@@ -1,14 +1,10 @@
 <?php
 /**
- * Plugin Name: Church Theme Content
- * Plugin URI: https://churchthemes.com/plugins/church-theme-content
- * Description: Provides compatible themes with sermon, event, person and location post types. A <strong>compatible theme is required</strong> for displaying content.
- * Version: 1.7.2
- * Author: churchthemes.com
- * Author URI: https://churchthemes.com
+ * Plugin Name: Church Theme Content for Toolset
+ * Plugin URI: https://github.com/danieldvos/church-theme-content
+ * Description: A version of CTC compatible with Toolset.
+ * Version: 2016-12-14
  * License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
- * Text Domain: church-theme-content
- * Domain Path: /languages
  *
  * @package   Church_Theme_Content
  * @copyright Copyright (c) 2013 - 2016, churchthemes.com
