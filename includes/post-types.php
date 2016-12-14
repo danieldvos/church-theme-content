@@ -60,7 +60,7 @@ function ctc_register_post_type_sermon() {
 
 }
 
-add_action( 'init', 'ctc_register_post_type_sermon' ); // register post type
+// add_action( 'init', 'ctc_register_post_type_sermon' ); // register post type
 
 /**********************************
  * EVENT
@@ -109,7 +109,7 @@ function ctc_register_post_type_event() {
 
 }
 
-add_action( 'init', 'ctc_register_post_type_event' ); // register post type
+// add_action( 'init', 'ctc_register_post_type_event' ); // register post type
 
 /**********************************
  * LOCATION
@@ -157,7 +157,7 @@ function ctc_location_post_type() {
 
 }
 
-add_action( 'init', 'ctc_location_post_type' ); // register post type
+// add_action( 'init', 'ctc_location_post_type' ); // register post type
 
 /**********************************
  * PERSON
@@ -206,4 +206,4 @@ function ctc_register_post_type_person() {
 
 }
 
-add_action( 'init', 'ctc_register_post_type_person' ); // register post type
+// add_action( 'init', 'ctc_register_post_type_person' ); // register post type
